@@ -48,9 +48,10 @@ In my Project, I have used a music store sales database. A organisation can use 
 
 
 ## Screenshots
+![loginpage](https://github.com/user-attachments/assets/7efb9f8b-e5a7-41b6-9aa3-95401c483977)
 
-![App Screenshot](https://ibb.co/mRD4WRd)
-![App Screenshot](https://ibb.co/tY9XV0m)
-![App Screenshot](https://ibb.co/Y7NvYDn)
+![mainpage](https://github.com/user-attachments/assets/3c0e32fe-7b3e-43ea-9266-4159e190a346)
+![resultpage](https://github.com/user-attachments/assets/70e3bc12-8bb7-4656-8bf2-a76c811eef31)
+
 
 
